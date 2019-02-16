@@ -1,7 +1,7 @@
 # Language Resources and Technologies for Non-scheduled and Endangered Indian Languages
 It is a collection of resources and technologies for non-scheduled and endangered Indian languages and, if available, the link to access / download these resources and tools.
 
-### NOTE: If you want to contribute some resource / technology to this list, please [fill up this form](http://indianlr.kmiagra.org/). We will add the contribution here after verifying it.
+### NOTE: If you want to contribute some resource / technology to this list, please [fill up this form](http://indianlrreg.kmiagra.org/). We will add the contribution here after verifying it.
 
 ## Magahi Language Resources and Technologies
 Magahi Text Corpus - [Cick here to access the corpus](https://github.com/kmi-linguistics/magahi)
